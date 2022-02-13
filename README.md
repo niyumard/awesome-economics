@@ -17,6 +17,7 @@
 * [OECD Data](https://data.oecd.org/)
 * [Our World in Data](https://ourworldindata.org/)
 * [The Observatory of Economic Complexity](https://oec.world/) Trade charts and complexity for countries
+* [Harvard's Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 
 ### Search
 
