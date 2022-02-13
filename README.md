@@ -13,6 +13,8 @@
 * [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
 * [OECD Stats](https://stats.oecd.org/) (Charts in [OECD Data](https://data.oecd.org/))
 * [FAO's Aquastat](https://aquastat.fao.org/climate-information-tool/)
+* [International Energy Agency](https://www.iea.org/data-and-statistics)
+
 #### Charts
 * [OECD Data](https://data.oecd.org/)
 * [Our World in Data](https://ourworldindata.org/)
