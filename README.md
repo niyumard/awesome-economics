@@ -33,7 +33,7 @@
 * [Central Bank of Iran's Timeseries Data](https://tsd.cbi.ir) _Note:_ There are many other data available on https://cbi.ir as well.
 * [Statistical Center of Iran](https://amar.org.ir/english)
 * [Ministry of Economic Affairs and Finance's Databank](https://databank.mefa.ir)
-* [Trade Promotion Organization of Iran](https://en.tpo.ir/Non%E2%80%93oil-Export) Data for non-oil exports
+* [Trade Promotion Organization of Iran](https://en.tpo.ir/Non%E2%80%93oil-Export) Data for non-oil exports, and other trade data.
 
 # Similar Resources
 * https://github.com/antontarasenko/awesome-economics
