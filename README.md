@@ -14,6 +14,8 @@
 * [OECD Stats](https://stats.oecd.org/) (Charts in [OECD Data](https://data.oecd.org/))
 * [FAO's Aquastat](https://aquastat.fao.org/climate-information-tool/)
 * [International Energy Agency](https://www.iea.org/data-and-statistics)
+* [UNIDO's Maufacturing Data](https://stat.unido.org/database/CIP%202021) Some data and indexes for global manufacturing by country and by ISIC
+* [United Nation's Statistics Divison](https://unstats.un.org/home/)
 
 #### Charts
 * [OECD Data](https://data.oecd.org/)
@@ -23,11 +25,12 @@
 
 ### Search
 
+* [Google's Public Data Search Enginge](https://www.google.com/publicdata/directory#!)
+* [UNdata](http://data.un.org/Default.aspx)
 * [International Open Government Dataset Search](https://logd.tw.rpi.edu//node/9903) - Over 1,000,000 government datasets. When works, this service looks [like this](http://web.archive.org/web/20140815054106/http://logd.tw.rpi.edu/node/9903). Otherwise, you'll see a 403 error.
 * [Dataset Search Engine](https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m) - Google-based search over 200 data sources, including those mentioned here. You can use Google [search operators](http://www.googleguide.com/advanced_operators_reference.html) here.
 * [StackExchange Open Data](http://opendata.stackexchange.com/) - If you haven't found the data you were looking for, you can ask it here.
 * [Reddit /r/datasets](https://www.reddit.com/r/datasets) - One more place to request datasets.
-* [Google's Public Data Search Enginge](https://www.google.com/publicdata/directory#!)
 
 ## Iran
 * [Central Bank of Iran's Timeseries Data](https://tsd.cbi.ir) _Note:_ There are many other data available on https://cbi.ir as well.
