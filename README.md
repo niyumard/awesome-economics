@@ -26,7 +26,7 @@
 * [Harvard's Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [Gapminder](https://www.gapminder.org/)
 
-### Search
+#### Search
 
 * [Google's Public Data Search Enginge](https://www.google.com/publicdata/directory#!)
 * [UNdata](http://data.un.org/Default.aspx)
@@ -34,6 +34,9 @@
 * [Dataset Search Engine](https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m) - Google-based search over 200 data sources, including those mentioned here. You can use Google [search operators](http://www.googleguide.com/advanced_operators_reference.html) here.
 * [StackExchange Open Data](http://opendata.stackexchange.com/) - If you haven't found the data you were looking for, you can ask it here.
 * [Reddit /r/datasets](https://www.reddit.com/r/datasets) - One more place to request datasets.
+
+#### Indices
+* [World Energy Trilemma](https://trilemma.worldenergy.org/)
 
 ## Iran
 * [Central Bank of Iran's Timeseries Data](https://tsd.cbi.ir) _Note:_ There are many other data available on https://cbi.ir as well.
