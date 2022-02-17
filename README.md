@@ -18,6 +18,7 @@
 * [United Nation's Statistics Divison](https://unstats.un.org/home/)
 * [bp's Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html) And also energy outlook. Data on oil and gas production and consumption among other things.
 * [EIA's reports](https://www.eia.gov/outlooks/aeo/)
+* [SIPRI's Miliatry Expenditure](https://www.sipri.org/databases/milex)
 
 #### Charts
 * [OECD Data](https://data.oecd.org/)
