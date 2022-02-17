@@ -38,6 +38,7 @@
 * [Ministry of Economic Affairs and Finance's Databank](https://databank.mefa.ir)
 * [Trade Promotion Organization of Iran](https://en.tpo.ir/Non%E2%80%93oil-Export) Data for non-oil exports, and other trade data.
 * [The Islamic Republic of Iran Customs Administration](https://irica.gov.ir/index.php?newlang=eng)
+* [Iranian Mines & Mining Industries Development & Renovation Organization](https://imidro.gov.ir/general_content/442-Annual-Reports.html) Reports on Mining
 
 # Similar Resources
 * https://github.com/antontarasenko/awesome-economics
