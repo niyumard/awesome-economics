@@ -31,7 +31,7 @@
 
 #### Search
 
-* [Google's Public Data Search Enginge](https://www.google.com/publicdata/directory#!)
+* [Google's Public Data Search Engine](https://www.google.com/publicdata/directory#!)
 * [UNdata](http://data.un.org/Default.aspx)
 * [International Open Government Dataset Search](https://logd.tw.rpi.edu//node/9903) - Over 1,000,000 government datasets. When works, this service looks [like this](http://web.archive.org/web/20140815054106/http://logd.tw.rpi.edu/node/9903). Otherwise, you'll see a 403 error.
 * [Dataset Search Engine](https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m) - Google-based search over 200 data sources, including those mentioned here. You can use Google [search operators](http://www.googleguide.com/advanced_operators_reference.html) here.
