@@ -5,7 +5,7 @@
 ### Datasets
 
 * [FRED2](https://research.stlouisfed.org/fred2/) - 380,000 (macro) time series from 80 sources. Supports plugins for importing data into Excel, Stata, R, and others. Has a mobile app.
-* [World Bank Data](http://data.worldbank.org/) - International macro time series. Has data import plugins.
+* [World Bank Databank](http://databank.worldbank.org/) - International macro time series.
 * [IMF Data](http://www.imf.org/en/Data) - The standard reference for macro data.
 * [Quandl](https://www.quandl.com/) - Aggregate financial and economic data from multiple sources. Some data vendors sell their data via this service. Good integration with statistical software.
 * [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
@@ -26,6 +26,7 @@
 * [The Observatory of Economic Complexity](https://oec.world/) Trade charts and complexity for countries
 * [Harvard's Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [Gapminder](https://www.gapminder.org/)
+* [World Bank Data](http://data.worldbank.org/) - International macro time series. Has data import plugins.
 
 #### Search
 
