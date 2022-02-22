@@ -19,6 +19,7 @@
 * [bp's Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html) And also energy outlook. Data on oil and gas production and consumption among other things.
 * [EIA's reports](https://www.eia.gov/outlooks/aeo/)
 * [SIPRI's Miliatry Expenditure](https://www.sipri.org/databases/milex)
+* [Yahoo Finance](https://finance.yahoo.com/) Data for cryptocurrency and stock prices
 
 #### Charts
 * [OECD Data](https://data.oecd.org/)
@@ -26,7 +27,7 @@
 * [The Observatory of Economic Complexity](https://oec.world/) Trade charts and complexity for countries
 * [Harvard's Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [Gapminder](https://www.gapminder.org/)
-* [World Bank Data](http://data.worldbank.org/) - International macro time series. Has data import plugins.
+* [World Bank Data](http://data.worldbank.org/) International macro time series graphed.
 
 #### Search
 
