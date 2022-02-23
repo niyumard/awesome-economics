@@ -16,9 +16,13 @@
 * [International Energy Agency](https://www.iea.org/data-and-statistics)
 * [UNIDO's Maufacturing Data](https://stat.unido.org/database/CIP%202021) Some data and indexes for global manufacturing by country and by ISIC
 * [United Nation's Statistics Divison](https://unstats.un.org/home/)
+* [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/) Information on relative levels of income, output, input and productivity, covering 183 countries between 1950 and 2019.
+* [SIPRI's Miliatry Expenditure](https://www.sipri.org/databases/milex)
+#### Energy
 * [bp's Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html) And also energy outlook. Data on oil and gas production and consumption among other things.
 * [EIA's reports](https://www.eia.gov/outlooks/aeo/)
-* [SIPRI's Miliatry Expenditure](https://www.sipri.org/databases/milex)
+
+#### Finance
 * [Yahoo Finance](https://finance.yahoo.com/) Data for cryptocurrency and stock prices
 
 #### Charts
