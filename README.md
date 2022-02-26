@@ -57,5 +57,7 @@
 * [Iranian Mines & Mining Industries Development & Renovation Organization](https://imidro.gov.ir/general_content/442-Annual-Reports.html) Reports on Mining
 * [Tehran Securities Exchange Client](http://www.tsetmc.com/Site.aspx?ParTree=111A11) It's a Windows application for stock prices in Tehran Stock Exchange.
 
+# Miscellaneous
+* [WHO's Covid19 Data](https://covid19.who.int/)
 # Similar Resources
 * https://github.com/antontarasenko/awesome-economics
