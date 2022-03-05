@@ -20,6 +20,11 @@
 * [SIPRI's Miliatry Expenditure](https://www.sipri.org/databases/milex)
 * [International Labour Organization's Data](https://ilostat.ilo.org/data/)
 
+#### International Trade
+* [The World Integrated Trade Solution](https://wits.worldbank.org/)
+* [The Observatory of Economic Complexity](https://oec.world/) Trade charts and economic complexity for countries
+* [Harvard's Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+
 #### Energy
 * [bp's Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html) And also energy outlook. Data on oil and gas production and consumption among other things.
 * [EIA's reports](https://www.eia.gov/outlooks/aeo/)
@@ -30,8 +35,6 @@
 #### Charts
 * [OECD Data](https://data.oecd.org/)
 * [Our World in Data](https://ourworldindata.org/)
-* [The Observatory of Economic Complexity](https://oec.world/) Trade charts and complexity for countries
-* [Harvard's Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [Gapminder](https://www.gapminder.org/)
 * [World Bank Data](http://data.worldbank.org/) International macro time series graphed.
 
