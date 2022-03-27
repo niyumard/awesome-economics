@@ -31,7 +31,7 @@
 
 #### Finance
 * [Yahoo Finance](https://finance.yahoo.com/) Data for cryptocurrency and stock prices
-
+* [Electronic Data Gathering, Analysis, and Retrieval system data for U.S. Securities and Exchange](https://www.sec.gov/edgar.shtml)
 #### Charts
 * [OECD Data](https://data.oecd.org/)
 * [Our World in Data](https://ourworldindata.org/)
