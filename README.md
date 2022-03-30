@@ -55,7 +55,7 @@
 
 ## Iran
 * [Central Bank of Iran's Timeseries Data](https://tsd.cbi.ir) _Note:_ There are many other data available on https://cbi.ir as well.
-* [Statistical Center of Iran](https://amar.org.ir/english)
+* [Statistical Center of Iran](https://amar.org.ir/english) _Includes:_ Valuable data including national accounts and Households Expenditure and Income Survey.
 * [Ministry of Economic Affairs and Finance's Databank](https://databank.mefa.ir)
 * [Trade Promotion Organization of Iran](https://en.tpo.ir/Non%E2%80%93oil-Export) Data for non-oil exports, and other trade data.
 * [The Islamic Republic of Iran Customs Administration](https://irica.gov.ir/index.php?newlang=eng)
