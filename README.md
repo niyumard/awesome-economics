@@ -56,7 +56,10 @@
 
 ## United States
 * [The U.S. Bureau of Economic Analysis](https://www.bea.gov/data/) National accounts for the US.
-* [U.S. Bureau of Labor Statistics](https://www.bls.gov/cex/) Consumer Expenditure Surveys: data on expenditures, income, and demographic characteristics of consumers in the United States.
+* [U.S. Bureau of Labor Statistics](https://www.bls.gov/cex/)
+    * **Consumer Expenditure Surveys**: data on expenditures, income, and demographic characteristics of consumers in the United States.
+    **Current Population Survey**: Monthly survey on labor force, unemployment, earnings, hours of work, etc.
+
 ## Iran
 * [Central Bank of Iran's Timeseries Data](https://tsd.cbi.ir) _Note:_ There are many other data available on https://cbi.ir as well.
 * [Statistical Center of Iran](https://amar.org.ir/english) _Includes:_ Valuable data including national accounts and Households Expenditure and Income Survey.
