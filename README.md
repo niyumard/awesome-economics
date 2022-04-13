@@ -43,7 +43,8 @@
 * [Our World in Data](https://ourworldindata.org/) 
 
 #### Search
-
+* [Mendely Data](https://data.mendeley.com/)
+* [Harvard Datavers](https://dataverse.harvard.edu/)
 * [Google's Public Data Search Engine](https://www.google.com/publicdata/directory#!)
 * [UNdata](http://data.un.org/Default.aspx)
 * [International Open Government Dataset Search](https://logd.tw.rpi.edu//node/9903) - Over 1,000,000 government datasets. When works, this service looks [like this](http://web.archive.org/web/20140815054106/http://logd.tw.rpi.edu/node/9903). Otherwise, you'll see a 403 error.
