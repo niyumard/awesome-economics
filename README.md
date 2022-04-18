@@ -7,6 +7,7 @@
 * [FRED2](https://research.stlouisfed.org/fred2/) - 380,000 (macro) time series from 80 sources. Supports plugins for importing data into Excel, Stata, R, and others. Has a mobile app.
 * [World Bank Databank](http://databank.worldbank.org/) - International macro time series.
 * [IMF Data](http://www.imf.org/en/Data) - The standard reference for macro data.
+* [IMF's Datamapper](https://www.imf.org/external/datamapper/datasets) DataMapper for different datasets.
 * [Quandl](https://www.quandl.com/) - Aggregate financial and economic data from multiple sources. Some data vendors sell their data via this service. Good integration with statistical software.
 * [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
 * [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
