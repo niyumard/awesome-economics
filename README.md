@@ -80,3 +80,4 @@
 * [WHO's Covid19 Data](https://covid19.who.int/)
 # Similar Resources
 * https://github.com/antontarasenko/awesome-economics
+* https://github.com/awesomedata/awesome-public-datasets#economics
