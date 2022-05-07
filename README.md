@@ -79,6 +79,7 @@
 ### Private Source of Information
 * [Peydaa](http://peydaa.ir) Info on labor market
 * [JobVision](https://jobvision.ir/landing/salary-survey-report) Info on labor market
+* [Iran's Freedom of Information Act](https://iranfoia.ir/web/guest/home) Request data from public offices.
 ## Japan
 * [Japanese Government Statistics](https://www.e-stat.go.jp/en/)
 # Miscellaneous
