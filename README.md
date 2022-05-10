@@ -20,7 +20,7 @@
 * [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/) Information on relative levels of income, output, input and productivity, covering 183 countries between 1950 and 2019.
 * [SIPRI's Miliatry Expenditure](https://www.sipri.org/databases/milex)
 * [International Labour Organization's Data](https://ilostat.ilo.org/data/)
-
+* [Measuring Worth](https://www.measuringworth.com/) GDP, CPI, Gold Prices, Wages, Interest Rates, mainly for US and UK but also for Spain and Australia
 #### International Trade
 * [The World Integrated Trade Solution](https://wits.worldbank.org/)
 * [The Observatory of Economic Complexity](https://oec.world/) Trade charts and economic complexity for countries
