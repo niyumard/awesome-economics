@@ -26,7 +26,7 @@
 * [The Observatory of Economic Complexity](https://oec.world/) Trade charts and economic complexity for countries
 * [Harvard's Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [Trade Map](https://www.trademap.org/) Trade statistics for international business development. Monthly, quarterly and yearly trade data. Import & export values, volumes, growth rates, market shares, etc. 
-
+* [UN's Comtrade](https://comtrade.un.org/) Free API and database of global trade data.
 #### Energy
 * [bp's Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html) And also energy outlook. Data on oil and gas production and consumption among other things.
 * [EIA's reports](https://www.eia.gov/outlooks/aeo/)
