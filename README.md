@@ -13,6 +13,7 @@
 * [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
 * [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
 * [OECD Stats](https://stats.oecd.org/) (Charts in [OECD Data](https://data.oecd.org/))
+* [Statistics of the World](https://statisticsoftheworld.com/) - 440+ indicators for 218 countries aggregating IMF, World Bank, WHO, FRED, and UN data. Free API. Interactive charts, rankings, comparisons.
 * [FAO's Aquastat](https://aquastat.fao.org/climate-information-tool/)
 * [International Energy Agency](https://www.iea.org/data-and-statistics)
 * [UNIDO's Maufacturing Data](https://stat.unido.org/database/CIP%202021) Some data and indexes for global manufacturing by country and by ISIC
