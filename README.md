@@ -13,6 +13,7 @@
 * [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
 * [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
 * [OECD Stats](https://stats.oecd.org/) (Charts in [OECD Data](https://data.oecd.org/))
+* [Invokely](https://invokely.ai/docs) - Hosted MCP for source-cited official statistics, with full histories and exports. Covers U.S. states and counties, EU countries and regions, Spanish municipalities, and World Bank data for every country and the world. The free MCP plan includes 500 calls/month; REST API access requires Builder, Pro, or prepaid credits.
 * [FAO's Aquastat](https://aquastat.fao.org/climate-information-tool/)
 * [International Energy Agency](https://www.iea.org/data-and-statistics)
 * [UNIDO's Maufacturing Data](https://stat.unido.org/database/CIP%202021) Some data and indexes for global manufacturing by country and by ISIC
